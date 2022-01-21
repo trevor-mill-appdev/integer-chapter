@@ -4,3 +4,5 @@
 # 
 # 4
 
+output = 365 / 7
+p output
