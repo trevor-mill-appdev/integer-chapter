@@ -10,5 +10,6 @@ p "How old are you?"
 age = gets.chomp.to_i
 year = 2020
 year = year - age
+# year = year.to_s
 p "Wow, you were born in #{year}. You're old!"
 
